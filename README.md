@@ -29,12 +29,12 @@ Becoming a strong Full-Stack Developer and landing an internship in 2026
 ## GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=G-Ganesh83&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=G-Ganesh83&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=G-Ganesh83&show_icons=true&theme=nightowl&hide_border=true"/>
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=G-Ganesh83&theme=nightowl&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=G-Ganesh83&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=G-Ganesh83&layout=compact&theme=default&hide_border=true"/>
 </p>
 
 ##  Activity
