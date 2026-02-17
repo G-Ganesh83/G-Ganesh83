@@ -1,0 +1,21 @@
+<svg viewBox="0 0 1440 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad" x1="0%" x2="100%">
+      <stop offset="0%" stop-color="#000080"/>
+      <stop offset="100%" stop-color="#B13BFF"/>
+    </linearGradient>
+  </defs>
+
+  <!-- wave -->
+  <path fill="url(#grad)" d="M0,96L80,106.7C160,117,320,139,480,149.3C640,160,800,160,960,144C1120,128,1280,96,1360,80L1440,64V200H0Z"></path>
+
+  <!-- thin italic text -->
+  <text x="50%" y="75%" text-anchor="middle"
+        font-family="Raleway, sans-serif"
+        font-size="26"
+        fill="white"
+        font-style="italic"
+        font-weight="300">
+        Consistency Beats Motivation
+  </text>
+</svg>
