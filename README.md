@@ -6,7 +6,9 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Source%20Code%20Pro&weight=300&size=28&pause=1200&color=B13BFF&center=true&vCenter=true&width=780&height=80&lines=Full+Stack+Developer+in+Progress;DSA+Enthusiast;MERN+Stack+Learner;Java+Problem+Solver" />
 </p>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=G-Ganesh83&label=Profile%20views&color=B13BFF&style=for-the-badge"/>
+</p>
 <img src="https://raw.githubusercontent.com/G-Ganesh83/G-Ganesh83/main/moving-divider.svg" width="100%">
 
 ## About Me
@@ -25,7 +27,6 @@ MERN Stack + Data Structures & Algorithms (Java)
 > mission
 Becoming a strong Full-Stack Developer and landing an internship in 2026
 ```
-
 ## Tech Stack
 
 <h3>Languages</h3>
@@ -71,12 +72,12 @@ Becoming a strong Full-Stack Developer and landing an internship in 2026
 ## GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=G-Ganesh83&show_icons=true&theme=nightowl&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=G-Ganesh83&show_icons=true&theme=tokyo-night&hide_border=false"/>
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=G-Ganesh83&theme=nightowl&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=G-Ganesh83&layout=compact&theme=default&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=G-Ganesh83&layout=compact&theme=default&hide_border=false"/>
 </p>
 
 <img src="https://raw.githubusercontent.com/G-Ganesh83/G-Ganesh83/main/moving-divider.svg" width="100%">
@@ -98,5 +99,6 @@ Becoming a strong Full-Stack Developer and landing an internship in 2026
   <a href="mailto:giriganesh1304@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-</p><img src="https://capsule-render.vercel.app/api?type=waving&color=0:000080,100:B13BFF&height=140&section=footer&text=Consistency%20Beats%20Motivation&font=outfit&fontSize=18&fontColor=FFFFFF&fontAlign=50&fontAlignY=70" width="100%"/>
+</p>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000080,100:B13BFF&height=140&section=footer&text=Consistency%20Beats%20Motivation&font=outfit&fontSize=18&fontColor=FFFFFF&fontAlign=50&fontAlignY=70" width="100%"/>
