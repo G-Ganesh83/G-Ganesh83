@@ -10,7 +10,7 @@
 </p>
 
 
-<h2 align="center">🧠 About Me</h2>
+## About Me
 
 
 > whoami
@@ -26,7 +26,7 @@ MERN Stack + Data Structures & Algorithms (Java)
 Becoming a strong Full-Stack Developer and landing an internship in 2026
 
 
-## ⚡ GitHub Analytics
+## GitHub Analytics
 
 <p align="center">
   <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=G-Ganesh83&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -49,10 +49,10 @@ Becoming a strong Full-Stack Developer and landing an internship in 2026
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </p>
 
-<h1 align="center">⚡ Tech Stack</h1>
+## Tech Stack
 
 
-<h3 align="center">💻 Languages</h3>
+<h3 align="center">Languages</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -60,24 +60,24 @@ Becoming a strong Full-Stack Developer and landing an internship in 2026
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
 </p>
 
-<h3 align="center">🎨 Frontend</h3>
+<h3 align="center">Frontend</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 </p>
 
-<h3 align="center">⚙️ Backend</h3>
+<h3 align="center">Backend</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
 </p>
 
-<h3 align="center">🗄 Database</h3>
+<h3 align="center">Database</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
-<h3 align="center">🧰 Tools</h3>
+<h3 align="center">Tools</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -91,7 +91,7 @@ Becoming a strong Full-Stack Developer and landing an internship in 2026
 </p>
 
 
-### Connect with me:
+## Connect with me:
 <p align="center">
   <a href="https://linkedin.com/in/giri-ganesh">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
