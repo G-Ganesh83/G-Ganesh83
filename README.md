@@ -9,6 +9,8 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Source%20Code%20Pro&weight=300&size=28&pause=1200&color=B13BFF&center=true&vCenter=true&width=780&height=80&lines=Full+Stack+Developer+in+Progress;DSA+Enthusiast;MERN+Stack+Learner;Java+Problem+Solver" />
 </p>
 
+<img src="https://raw.githubusercontent.com/G-Ganesh83/G-Ganesh83/main/moving-divider.svg" width="100%">
+
 ## About Me
 
 > whoami
@@ -25,7 +27,7 @@ Becoming a strong Full-Stack Developer and landing an internship in 2026
 
 <!-- Animated Top Border -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+  <img src="https://raw.githubusercontent.com/G-Ganesh83/G-Ganesh83/main/moving-divider.svg" width="100%">
 </p>
 
 ## Tech Stack
@@ -65,7 +67,7 @@ Becoming a strong Full-Stack Developer and landing an internship in 2026
 
 
 <p>
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+  <img src="https://raw.githubusercontent.com/G-Ganesh83/G-Ganesh83/main/moving-divider.svg" width="100%">
 </p>
 
 
@@ -81,6 +83,8 @@ Becoming a strong Full-Stack Developer and landing an internship in 2026
   <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=G-Ganesh83&layout=compact&theme=default&hide_border=true"/>
 </p>
 
+<img src="https://raw.githubusercontent.com/G-Ganesh83/G-Ganesh83/main/moving-divider.svg" width="100%">
+
 ##  Activity
 
 
@@ -88,7 +92,7 @@ Becoming a strong Full-Stack Developer and landing an internship in 2026
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=G-Ganesh83&theme=tokyo-night&hide_border=true"/>
 </p>
 
-
+<img src="https://raw.githubusercontent.com/G-Ganesh83/G-Ganesh83/main/moving-divider.svg" width="100%">
 
 ## Connect with me:
 <p>
