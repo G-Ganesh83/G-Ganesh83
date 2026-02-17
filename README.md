@@ -98,6 +98,5 @@ Becoming a strong Full-Stack Developer and landing an internship in 2026
   <a href="mailto:giriganesh1304@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-
-<img src="https://raw.githubusercontent.com/G-Ganesh83/G-Ganesh83/main/footer-wave.svg" width="100%">
+</p><img src="https://capsule-render.vercel.app/api?type=waving&color=0:000080,100:B13BFF&height=140&section=footer&text=Consistency%20Beats%20Motivation&font=outfit&fontSize=18&fontColor=FFFFFF&fontAlign=50&fontAlignY=70" width="100%"/>
 
