@@ -1,8 +1,6 @@
-<!-- HERO GIF BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000080,:B13BFF&height=3" width="100%"/>
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000080,100:B13BFF&height=180&section=header&reversal=false&text=Ganesh&fontSize=60&fontColor=FFFFFF&fontAlign=50&fontAlignY=35&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000080,100:B13BFF&height=180&section=header&reversal=false&text=Ganesh&fontSize=60&fontColor=FFFFFF&fontAlign=50&fontAlignY=35&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50" width="100%" />
 
 
 <p align="center">
@@ -12,6 +10,8 @@
 <img src="https://raw.githubusercontent.com/G-Ganesh83/G-Ganesh83/main/moving-divider.svg" width="100%">
 
 ## About Me
+
+```bash
 
 > whoami
 G. Ganesh
@@ -24,11 +24,7 @@ MERN Stack + Data Structures & Algorithms (Java)
 
 > mission
 Becoming a strong Full-Stack Developer and landing an internship in 2026
-
-<!-- Animated Top Border -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/G-Ganesh83/G-Ganesh83/main/moving-divider.svg" width="100%">
-</p>
+```
 
 ## Tech Stack
 
@@ -102,5 +98,5 @@ Becoming a strong Full-Stack Developer and landing an internship in 2026
   <a href="mailto:giriganesh1304@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-</p>
-<img src="https://capsule-render.vercel.app/api?type=waving&&color=0:000080,100:B13BFF&height=120&section=footer" width="100%"/>
+</p><img src="https://capsule-render.vercel.app/api?type=waving&color=0:000080,100:B13BFF&height=140&section=footer&text=Consistency%20Beats%20Motivation&font=outfit&fontSize=18&fontColor=FFFFFF&fontAlign=50&fontAlignY=70" width="100%"/>
+
